@@ -80,7 +80,3 @@ class Prime:
             primes = Prime.primes_to(value * 2)
         return primes[0:count]
 
-# print(Prime.primes_first(10))
-# print(math.e ** -lambertw([-1 / 100], -1)[0].real)
-# print(len(Prime.primes_to(647)))
-# print(Prime.primes_first(10))
